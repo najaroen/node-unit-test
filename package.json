@@ -1,0 +1,22 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "node unit test for example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/najaroen/node-unit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/najaroen/node-unit-test/issues"
+  },
+  "homepage": "https://github.com/najaroen/node-unit-test#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
